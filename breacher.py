@@ -1,4 +1,4 @@
-import requests #module for making request to a webpage
+import requests #module for making requests to a webpage
 import threading #module for multi-threading
 import argparse #module for parsing command line arguments
 
